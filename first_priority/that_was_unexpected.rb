@@ -1,5 +1,5 @@
 class Person do 
-attr_accessor(:name, :candy_lover)
+attr_accessor :name
 end 
 
   def initialize(name, candy_lover)
