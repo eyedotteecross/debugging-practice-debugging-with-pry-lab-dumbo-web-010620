@@ -26,3 +26,5 @@ attr_accessor :name
         "not a ballin candy lover"
     end
   end
+end 
+end 
