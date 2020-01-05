@@ -1,6 +1,6 @@
-class Person do 
+
 attr_accessor :name
-end 
+
 
   def initialize(name, candy_lover)
    @name = name
