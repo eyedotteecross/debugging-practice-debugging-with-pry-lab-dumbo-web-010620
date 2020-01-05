@@ -7,19 +7,19 @@ end
     :candy_lover = candy_lover
   end
 
-  def tall?
+  def tall
     true
   end
 
-  def basketball_player?
+  def basketball_player
     false
   end
 
-  def likes_candy?
+  def likes_candy
     true
   end
 
-  def ballin_candy_lover?
+  def ballin_candy_lover
     if candy_lover == true
       "Aw sweet, this cat loves them some candy!"
     else
@@ -27,4 +27,3 @@ end
         "not a ballin candy lover"
     end
   end
-end
