@@ -6,15 +6,15 @@ end
    @name = name
   end
 
-  def tall
+  def tall?
     true
   end
 
-  def basketball_player
+  def basketball_player?
     false
   end
 
-  def likes_candy
+  def likes_candy?
     true
   end
 
