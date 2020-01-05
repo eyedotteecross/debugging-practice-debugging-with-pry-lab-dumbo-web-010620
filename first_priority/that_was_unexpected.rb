@@ -3,9 +3,7 @@ attr_accessor :name
 end 
 
   def initialize(name, candy_lover)
-    Person
-    name = :name
-    :candy_lover = candy_lover
+   @name = name
   end
 
   def tall
