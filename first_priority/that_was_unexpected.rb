@@ -19,6 +19,7 @@ attr_accessor :name
   end
 
   def ballin_candy_lover?
+    likes_candy
     if likes_candy == true
       "Aw sweet, this cat loves them some candy!"
     else
